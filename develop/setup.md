@@ -41,3 +41,13 @@ nodist npm 7.3.0
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## MakiType
+
+[Makitype](https://github.com/pon3939/MakiType)をクローン
+下記のコマンドで起動する
+
+```ps
+npm install
+npm start
+```
