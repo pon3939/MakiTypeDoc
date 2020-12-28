@@ -26,6 +26,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/in
 ```ps
 choco install nodist
 
+# インストール後、パスを通すために一度ターミナルを再起動
 # 下記でバージョンが表示されればOK
 nodist -v
 
