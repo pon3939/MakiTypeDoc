@@ -44,10 +44,11 @@ nodist npm 7.3.0
 
 ## MakiType
 
-[Makitype](https://github.com/pon3939/MakiType)をクローン
 下記のコマンドで起動する
 
 ```ps
+git clone https://github.com/pon3939/MakiType
+cd MakiType
 npm install
 npm start
 ```
