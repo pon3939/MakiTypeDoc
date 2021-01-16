@@ -55,3 +55,13 @@ cd MakiType
 yarn
 yarn start
 ```
+
+## パッケージング
+
+```ps
+# パッケージング
+yarn dist
+
+# EXEを実行
+./dist/win-unpacked/maki-type.exe
+```
