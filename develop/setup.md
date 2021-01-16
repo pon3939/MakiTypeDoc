@@ -33,6 +33,9 @@ nodist -v
 # とりあえずグローバルに最新をインストール
 nodist 15.5.0
 nodist npm 7.3.0
+
+# yarnをインストール
+npm install -g yarn
 ```
 
 ## Visual Studio Code
@@ -49,6 +52,6 @@ nodist npm 7.3.0
 ```ps
 git clone https://github.com/pon3939/MakiType
 cd MakiType
-npm install
-npm start
+yarn
+yarn start
 ```
