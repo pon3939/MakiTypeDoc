@@ -8,6 +8,15 @@ cd MakiType
 yarn
 yarn start
 ```
+
+## gulp
+
+gulpを起動しておくことでScssファイル変更時に自動でコンパイルされる
+
+```ps
+yarn gulp
+```
+
 ## パッケージング
 
 ```ps
