@@ -29,13 +29,20 @@ choco install nodist
 # インストール後、パスを通すために一度ターミナルを再起動
 # 下記でバージョンが表示されればOK
 nodist -v
+```
 
+## Node.js
+
+```ps
 # とりあえずグローバルに最新をインストール
 nodist 15.5.0
 nodist npm 7.3.0
 
 # yarnをインストール
 npm install -g yarn
+
+# ビルドツールをインストール
+yarn global add windows-build-tools
 ```
 
 ## Visual Studio Code
