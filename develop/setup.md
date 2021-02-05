@@ -47,7 +47,4 @@ yarn global add windows-build-tools
 
 ## Visual Studio Code
 
-下記の拡張機能推奨
-
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+`.vscode/extensions.json` に推奨拡張機能を記述している
